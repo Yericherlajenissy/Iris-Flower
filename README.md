@@ -17,8 +17,6 @@ Decision Tree
 
 Random Forest
 
-
-
 Evaluation Metrics:
 
 Accuracy Score
