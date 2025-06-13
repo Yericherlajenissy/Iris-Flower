@@ -4,8 +4,7 @@ This Jupyter Notebook demonstrates a machine learning project that classifies ir
 📌 Project Overview
 Dataset Used: Iris dataset (available in sklearn.datasets)
 
-
-Algorithms Used:
+# Algorithms Used:
 
 Logistic Regression
 
@@ -17,7 +16,7 @@ Decision Tree
 
 Random Forest
 
-Evaluation Metrics:
+# Evaluation Metrics:
 
 Accuracy Score
 
