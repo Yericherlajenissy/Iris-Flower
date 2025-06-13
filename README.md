@@ -4,6 +4,7 @@ This Jupyter Notebook demonstrates a machine learning project that classifies ir
 📌 Project Overview
 Dataset Used: Iris dataset (available in sklearn.datasets)
 
+
 Algorithms Used:
 
 Logistic Regression
@@ -15,6 +16,8 @@ Support Vector Machines (SVM)
 Decision Tree
 
 Random Forest
+
+
 
 Evaluation Metrics:
 
@@ -30,6 +33,7 @@ Seaborn
 
 Matplotlib
 
+
 🎯 Objective
 To build and evaluate multiple classification models and compare their performance on the Iris dataset.
 
@@ -41,6 +45,7 @@ Sepal Width
 Petal Length
 
 Petal Width
+
 
 📊 Output
 The notebook provides:
