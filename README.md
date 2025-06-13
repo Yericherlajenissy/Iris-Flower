@@ -31,10 +31,10 @@ Seaborn
 Matplotlib
 
 
-🎯 Objective
+# 🎯 Objective
 To build and evaluate multiple classification models and compare their performance on the Iris dataset.
 
-🔍 Features Used
+# 🔍 Features Used
 Sepal Length
 
 Sepal Width
@@ -44,7 +44,7 @@ Petal Length
 Petal Width
 
 
-📊 Output
+# 📊 Output
 The notebook provides:
 
 Exploratory Data Analysis (EDA)
